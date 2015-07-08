@@ -1,4 +1,4 @@
 [Adblock Plus 2.0]
 ncore.cc##DIV[class="banner"]
 ncore.cc##div.torrent_lenyilo_tartalom>center:first-of-type
-ncore.cc##div.main_tartalom>center:first-of-type
+ncore.cc##div.main_all>center:first-of-type
