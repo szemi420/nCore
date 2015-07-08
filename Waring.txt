@@ -1,2 +1,1 @@
 ncore.cc##div.torrent_lenyilo_tartalom>center:first-of-type
-ncore.cc##div.main_tartalom>center
