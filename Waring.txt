@@ -1,4 +1,4 @@
 [Adblock Plus 2.0]
 ncore.cc##DIV[class="banner"]
 ncore.cc##div.torrent_lenyilo_tartalom>center:first-of-type
-ncore.cc##div.main_tartalom>center:p
+ncore.cc##div[style*="background-image: url('/images/warning.png')"]
